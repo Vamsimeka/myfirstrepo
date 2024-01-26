@@ -1,5 +1,3 @@
-community_relationships = {}
-community_relationships['N1'] = {'follower': 'p1', 'following': 'q1', 'time': 't1'}
 community_relationships['N2'] = {'follower': 'p2', 'following': 'q2', 'time': 't2'}
 community_relationships['N3'] = {'follower': 'p3', 'following': 'q3', 'time': 't3'}
 
