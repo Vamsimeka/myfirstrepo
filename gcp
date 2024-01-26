@@ -1,4 +1,1 @@
 if follower_A in community_relationships and following_B in community_relationships[follower_A]['following']:
-    time_taken = community_relationships[follower_A]['time']
-    print(f"{follower_A} is following {following_B} with a time of {time_taken}")
-
